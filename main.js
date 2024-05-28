@@ -1,4 +1,3 @@
-
 let map;
 
 window.initMap = async () => {
@@ -6,7 +5,7 @@ window.initMap = async () => {
   map = new google.maps.Map(document.querySelector('#map'), {
     center: {lat: 37.41, lng: -122.12},
     zoom: 11,
-    mapId: 'd28f54143940ba80',
+    mapId: import.meta.env.MAPID,
     styles: [
       {
         featureType: 'poi',
