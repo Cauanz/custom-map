@@ -3,6 +3,9 @@
 ## Description
 This project is a custom map, where i added icons marking the big techs of silicon valley
 
+## Preview:
+https://custom-google-maps-project-l9y9y9zzq-cauanzs-projects.vercel.app/
+
 ## Technologies used
 - HTML
 - CSS
